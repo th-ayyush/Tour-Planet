@@ -9,7 +9,7 @@ window.addEventListener('scroll', () => {
     }
 });
 
-
+//define variables
 const navbarCollapseDiv = document.getElementById('navbar-collapse');
 const navbarShowBtn = document.getElementById('navbar-show-btn');
 const navbarCloseBtn = document.getElementById('navbar-close-btn');
